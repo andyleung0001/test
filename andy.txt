@@ -1,3 +1,4 @@
 line 1
 line 2 from new branch
 line from local master
+line 3 from origin master
